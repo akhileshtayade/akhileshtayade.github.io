@@ -4,3 +4,11 @@
 
 layout: home
 ---
+
+Hello! 
+
+I am a BTech - MTech Dual Degree student in the [Department of Biological Sciences and Bioengineering](https://www.iitk.ac.in/bsbe/) at the [Indian Institute of Technology Kanpur](https://www.iitk.ac.in). I am currently investigating the relationship among personality traits, social interaction and foraging behavior shown in a virtual task in young adults with [Arjun Ramakrishnan](https://sites.google.com/view/decisionlabiitk/team/arjun?authuser=0).
+
+You can read more about me [here](https://sites.google.com/view/decisionlabiitk/team/akhilesh-tayade?authuser=0).
+
+Email: takhil [at] iitk [ac] in
