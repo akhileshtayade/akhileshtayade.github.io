@@ -12,4 +12,8 @@ I am a BTech - MTech Dual Degree student in the [Department of Biological Scienc
 You can read more about me [here](https://sites.google.com/view/decisionlabiitk/team/akhilesh-tayade?authuser=0).
 
 
-Email: ~takhil [at] iitk [dot] ac [dot] in~ tayade [dot] iitk [at] gmail [dot] com
+[ORCID](https://orcid.org/0000-0002-4032-3889)
+
+Email: tayade [dot] iitk [at] gmail [dot] com
+
+
